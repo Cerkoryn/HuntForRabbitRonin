@@ -1,4 +1,4 @@
-#The Hunt for Rabbit Ronin
+# The Hunt for Rabbit Ronin
 
 The Hunt for the Rabbit Ronin goes live the instant the Dead Rabbit collection mints.
 
@@ -10,7 +10,7 @@ Crack the clues, then solve the riddle in each. The first to solve all ten will 
 
 The Hunt for Rabbit Ronin began on the day of the public mint with those instructions. Included was a picture of one of the HRR ear tags for the first cipher, however, there were multiple copies of each QR code on many different Dead Rabbit NFTs. These could be viewed, scanned, and solved by anybody with access to pool.pm or Cardano dApps. Ownership of any specific is not required, though having at least one rabbit was a requirement to claim the final prize. Thus begins our journey...
 
-###Hunt for Rabbit Ronin #1
+### Hunt for Rabbit Ronin #1
 
 By $alex.ada
 
@@ -32,7 +32,7 @@ Then a day or so later we found the information about the Portland Penny and rea
 
 After I found the page I realized this HAD to be it because I finally had a GREEN GIFT (it's copper which turns green as it patinas) from China (made by a Chinese foundry) and a Father (it's a father and baby elephant) I shared this with @soggy waffles and we thought we had it in the bag. But then we kept trying to figure out an email address and we're getting nothing that worked, so we decided one of our other answers, (either 3 or 7) had to be wrong. I knew that @$cerkoryn and @J4vaJ4ne didn't have #1 yet because @J4vaJ4ne found the Green Man of Portland by Daniel Duford, which they were convinced of. So I decided to propose merging our team to share all our answers. Once we merged we talked about it and realized we had all been down the same basic rabbit holes of the garden and the rock, and that there was no doubt that **Da Tung** HAD to be the answer.
 
-###Hunt for Rabbit Ronin #2
+### Hunt for Rabbit Ronin #2
 
 By BenjaminTheRelentless
 
@@ -64,7 +64,7 @@ The only real trouble we had was towards the end of the hunt, when we had "all t
 
 Fortunately we never got away from our original and correct answer : **Aurora Bridge**
 
-###Hunt for Rabbit Ronin #3
+### Hunt for Rabbit Ronin #3
 
 By $alex.ada
 
@@ -90,7 +90,7 @@ At this time I was using Protonmail to validate a big list of email addresses th
 
 I just kept going looking for any valid emails in the list I was trying and then after 15 or so minutes I happened to notice I had an unread message, and that it was from Jeb! I read it and he had confirmed we had finally won. That confirmed that Fireball was actually the correct answer to Riddle 3. I literally YELLED "HOLY F\*\*K" and scared my dogs and my 2 year old son. :joy:
 
-###Hunt for Rabbit Ronin #4
+### Hunt for Rabbit Ronin #4
 
 By $cerkoryn
 
@@ -110,7 +110,7 @@ At some point, we finally took another look at the cipher and realized that sinc
 
 Note that this can also be found on the ZombieCircusGoats.com web page, so it did not require a physical copy of the game to see.
 
-###Hunt for Rabbit Ronin #5
+### Hunt for Rabbit Ronin #5
 
 By soggy waffles
 
@@ -134,7 +134,7 @@ Piece of cake, right?
 
 Earlier this same day I shared the 10 cipher solutions with @$alex.ada. Lighting a fire that would ultimately consume are normal lives for nearly 3 weeks.
 
-###Hunt for Rabbit Ronin #6
+### Hunt for Rabbit Ronin #6
 
 By $alex.ada
 
@@ -148,7 +148,7 @@ This is another one that gave a lot of people grief. This question seems so subj
 
 A couple days later, I was scouring everything I could find about Jeb while trying to figure out what his favorite droid was. I wound up on the West Coast Scavenger Hunt write up on his board game website, and was reading it, when I clicked into the "Semi-Golden Ticket" page (https://zombiecircusgoats.com/semi-golden-ticket/). As I read through this page the Words "a voice like Gandalf's reached out and hit me like the smell of an overused porta-john hits you when you go in it at the fair on a 100-degree day. BAM! I mean, Jeb straight up tells us the answer right there! I immediately went to YouTube to find the scene, and once I found it, I was crazy excited and spammed the eff out of @soggy waffles DM's to tell him all about it. For me, this was the first answer I was able to confirm with something Jeb actually said, so it gave me a HUGE boost of confidence that the answers not only could be solved, but confirmed as being correct.
 
-###Hunt for Rabbit Ronin #7
+### Hunt for Rabbit Ronin #7
 
 By BenjaminTheRelentless
 
@@ -176,7 +176,7 @@ This was all cleared up for good by the 4th VLk\_Sys page hex answer from the li
 
 We were back to 99% certainty on 13 and never really looked back at 9.
 
-###Hunt for Rabbit Ronin #8
+### Hunt for Rabbit Ronin #8
 
 By $cerkoryn
 
@@ -202,7 +202,7 @@ Eventually we became more confident in 42 as the correct answer due to the lack 
 
 This let us know to use the literal number "42" instead of a variation of spelling such as "ft" from "forty-two."
 
-###Hunt for Rabbit Ronin #9
+### Hunt for Rabbit Ronin #9
 
 By $cerkoryn
 
@@ -240,7 +240,7 @@ For over a week we tried coming up with new wordlists and email addresses based 
 
 ![](Picture18.png)
 
-###Hunt for Rabbit Ronin #10
+### Hunt for Rabbit Ronin #10
 
 By BenjaminTheRelentless
 
@@ -268,7 +268,7 @@ Using ROT-13, we decoded the last part to:
 
 We strongly believed we needed to either send an email to or log in to a particular Protonmail account. But we still needed to figure which account it was that the clue was steering us toward and if we needed to send an email to it, what would the message be ? If we needed to instead log in, which password do we use? Amongst the whole group, we tested thousands of different combinations before we finally landed on the right one.
 
-###Other Clues
+### Other Clues
 
 By $cerkoryn
 
@@ -336,7 +336,7 @@ Which decoded using ROT-3 to:
 
 This motivated us to keep trying letter combinations for emails which is what gave us the final solution.
 
-###The Abrasive Dead Rabbit
+### The Abrasive Dead Rabbit
 
 By $soggy waffles
 
@@ -362,7 +362,7 @@ But our Dungeon Master set us straight…
 
 ![](Picture24.png)
 
-###Interrogating Jeb's Friends
+### Interrogating Jeb's Friends
 
 By $alex.ada
 
@@ -376,7 +376,7 @@ Taylor's reply:
 
 ![](Picture26.png)
 
-###Oliver Pike
+### Oliver Pike
 
 By $alex.ada
 
@@ -390,7 +390,7 @@ Every set of letters I came up with would show up as a vigenere cipher on dcode.
 
 When the 3 hexes came out, dcode told me they were Pollux ciphers.. so I spent a good 2 days figuring that cipher out before someone told me what it really was
 
-###When ARGs collide (Augmented Reality Game vs Alien Rabbit God)
+### When ARGs collide (Augmented Reality Game vs Alien Rabbit God)
 
 By $soggy waffles
 
@@ -436,7 +436,7 @@ Sadly no. What I stumbled across was the long running OIEC ARG.
 
 ![](Picture32.png)
 
-###Bert and Ernie Oldoskey
+### Bert and Ernie Oldoskey
 
 By $soggy waffles
 
@@ -450,7 +450,7 @@ Hilariously a quick google search for Bert Oldoskey immediately dumped Sesame St
 
 ![](Picture33.png)
 
-###YamarashiBot
+### YamarashiBot
 
 By $cerkoryn
 
